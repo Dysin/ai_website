@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:store.dji.com)",
+      "WebFetch(domain:www.anthropic.com)",
+      "Bash(git init:*)",
+      "Bash(git add:*)"
+    ]
+  }
+}
